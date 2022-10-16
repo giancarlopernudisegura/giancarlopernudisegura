@@ -7,7 +7,8 @@
 - 🍦 Ice cream connoisseur
 
 ![Giancarlo's github stats](https://github-readme-stats.vercel.app/api?username=giancarlopernudisegura&count_private=true&show_icons=true&theme=dracula)
-![Giancarlo's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giancarlopernudisegura&theme=dracula&show_icons=true)
+
+![Giancarlo's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giancarlopernudisegura&theme=dracula&show_icons=true&layout=compact&hide=c%2B%2B,pawn,fortran)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
