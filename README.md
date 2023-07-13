@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Giancarlo Pernudi Segura</h1>
-<h3 align="center">A passionate computing science student from Costa Rica</h3>
+<h3 align="center">A passionate computing science student from Costa Rica 🇨🇷</h3>
 
 - 👨‍🎓 Undergraduate Student at the University of Alberta studying Computing Science
-- 🧠 President at the [Undergraduate Artificial Intelligence Society](https://uais.dev/)
-- 💼 Army Communications and Information Systems Specialist, Canadian Armed Forces
+- 🧠 Former President and current VP Technology, [Undergraduate Artificial Intelligence Society](https://uais.dev/)
+- ⚔️ Army Communications and Information Systems Specialist, Canadian Armed Forces
+- 🌐 Former Chief Web Officer, [Neuralbertatech Neurotechnologies Ltd.](https://neuralberta.tech/)
 - 🍦 Ice cream connoisseur
 
 ![Giancarlo's github stats](https://github-readme-stats.vercel.app/api?username=giancarlopernudisegura&count_private=true&show_icons=true&theme=dracula)
